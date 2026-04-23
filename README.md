@@ -1,5 +1,7 @@
 # Dog Product Sales Data Entry and Cleaning Project
 
+A data entry and data cleaning project using Google Sheets.
+
 ## Project Overview
 This project analyzes dog product data in Google Sheets. The goal was to clean and standardize the dataset, then identify patterns in product categories, quantities, and pricing using pivot tables and charts.
 
